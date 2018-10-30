@@ -7,6 +7,7 @@
 #= require trix/models/attachment_manager
 #= require trix/models/selection_manager
 
+
 {rangeIsCollapsed, rangesAreEqual, objectsAreEqual} = Trix
 
 class Trix.EditorController extends Trix.Controller
