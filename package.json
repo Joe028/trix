@@ -10,7 +10,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/basecamp/trix.git"
+    "url": "git+https://github.com/Joe028/trix.git"
   },
   "keywords": [
     "rich text",
@@ -20,7 +20,7 @@
   "author": "Basecamp, LLC",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/basecamp/trix/issues"
+    "url": "https://github.com/Joe028/trix/issues"
   },
   "homepage": "http://trix-editor.org/",
   "devDependencies": {

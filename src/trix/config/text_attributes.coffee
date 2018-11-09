@@ -11,6 +11,12 @@ Trix.config.textAttributes =
     parser: (element) ->
       style = window.getComputedStyle(element)
       style["fontStyle"] is "italic"
+  highlight:
+    style: { "background-color": "#fdff32" }
+    inheritable: true
+    parser: (element) ->
+      style = window.getComputedStyle(element)
+      style["backgroundColor"] is "#fdff32"
   href:
     groupTagName: "a"
     parser: (element) ->
